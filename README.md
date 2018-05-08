@@ -48,6 +48,7 @@ public void move() {
 ```
 
 测试：
+
 ![super-test.png](https://upload-images.jianshu.io/upload_images/5805596-4e8d1e56cb196333.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 会写Android的兄弟都知道`super`这个家伙经常见到。
@@ -113,3 +114,5 @@ zzz~~~
 ## 资料
 
 1、**[模式的秘密---代理模式](https://www.imooc.com/learn/214)**
+
+2、**[proxy-demo](https://github.com/fengwenyi/proxy-demo)**
